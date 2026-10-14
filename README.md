@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dr. Krish Sabapathy
 
-###  Mathematics, Numerical Methods & Data ScienceAI & Data Science| Cloud Computing | PhD in Computing|
+### Educator | Mathematics & Numerical Methods | Data Science & AI | Statistical Learning|PhD in Computing
 📍 Brampton, Ontario, Canada
 
 Welcome to my GitHub! I am an IT educator and technology professional with over **20 years of experience** in higher education, specializing in **Cybersecurity, Networking, Cloud Computing, Artificial Intelligence, Data Science, and Systems Administration**.
